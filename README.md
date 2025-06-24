@@ -13,28 +13,10 @@ Este é um projecto simples desenvolvido em **C#**, cujo objectivo é verificar 
 - C# (Aplicação de Consola .NET)
 - Visual Studio / Visual Studio Code
 
-## 📄 Como Utilizar
+## 📄 Como Executar
 
-1. Clonar o repositório:
-   ```bash
-   git clone https://github.com/CarlosIMAlberto/04_VerificadorDeMaiorIdade
-   ```
-
-2. Abrir o projecto no editor de código de sua preferência.
-
-3. Compilar e executar a aplicação:
-   ```bash
-   dotnet run
-   ```
-
-4. Introduzir a idade conforme solicitado e consultar o resultado.
-
-## 📷 Exemplo de Saída
-
-```
-Introduza a sua idade: 17
-É menor de idade.
-```
+1. Compile e execute com `dotnet run` (caso use .NET SDK)
+2. Ou utilize um editor C# online, como Replit ou .NET Fiddle
 
 ## ✅ Critérios de Verificação
 
