@@ -17,7 +17,7 @@ Este é um projecto simples desenvolvido em **C#**, cujo objectivo é verificar 
 
 1. Clonar o repositório:
    ```bash
-   git clone https://github.com/seu-utilizador/nome-do-repositorio.git
+   git clone https://github.com/CarlosIMAlberto/04_VerificadorDeMaiorIdade
    ```
 
 2. Abrir o projecto no editor de código de sua preferência.
